@@ -48,6 +48,6 @@ Item_Outlet_Sales - sales of the particular item in the particular outlet (targe
 
 **Observation:**
 
-CatBoost Model performs better in our project compared to other models.
+•	CatBoost Model performs better in our project compared to other models.
 
 **Skills:** Machine Learning · Exploratory Data Analysis · Linear Regression · Random Forest · XGBoost · CatBoost · Data Pre-Processing 
